@@ -13,7 +13,7 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C , C++
 - **AI/ML & Data Science:** Machine Learning Basics, Search Algorithms (BFS, DFS, A*)
 - **Developer Tools:** Git, GitHub, VS Code
 
